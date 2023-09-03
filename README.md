@@ -4,7 +4,9 @@ This is a new React Native project, bootstrapped using @react-native-community/c
 
 Getting Started
 Note: Make sure you have completed the React Native - Environment Setup instructions till "Creating a new application" step, before proceeding.
+
 Code Available in master branch
+
 Step 1: Start the Metro Server
 First, you will need to start Metro, the JavaScript bundler that ships with React Native.
 
